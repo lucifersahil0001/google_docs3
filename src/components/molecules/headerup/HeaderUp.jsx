@@ -1,6 +1,6 @@
 import React from 'react'
 import './headerup.module.css'
-import {AiOutlineStar} from 'react-icons/ai'
+// import {AiOutlineStar} from 'react-icons/ai'
 
 const HeaderUp = () => {
   return (
